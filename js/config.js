@@ -2,7 +2,7 @@
 const CONFIG = {
   her: "Prashu",                  // her name or nickname
   me: "Your Person",              // your name (signs the letters)
-  since: "2024-02-14T00:00:00",   // when you got together
+  since: "2025-06-06T00:00:00",   // Jestha 23, 2082 BS (6 June 2025). Format: YYYY-MM-DDT00:00:00
   hello: "I made this little corner of the internet just for you. Tap around, everything here is yours.",
   tapLines: ["Aww, again?", "I can feel that.", "You really like my heart.", "Okay, it's yours forever."], // shown every 10 taps
   letters: [
